@@ -4,8 +4,14 @@
 \alias{highlight}
 \title{Syntax highlighting based on the R parser}
 \usage{
-highlight(x = read_file(file), detective = lestrade, file,
-  header = "<pre class='rcode'>", footer = "</pre>", ...)
+highlight(
+  x = read_file(file),
+  detective = lestrade,
+  file,
+  header = "<pre class='rcode'>",
+  footer = "</pre>",
+  ...
+)
 }
 \arguments{
 \item{x}{code to highlight. Read from `file` if supplied}

@@ -5,3 +5,4 @@ img
 ^appveyor\.yml$
 ^README\.Rmd$
 ^README-.*\.png$
+^highlight\.Rproj$
