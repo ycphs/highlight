@@ -24,5 +24,8 @@ Imports: glue,
     purrr
 Encoding: UTF-8
 SystemRequirements: C++11
-Suggests: knitr,
-    rmarkdown
+Suggests:
+    knitr,
+    pkgdown,
+    testthat,
+    roxygen2

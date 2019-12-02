@@ -11,6 +11,7 @@ knitr::opts_chunk$set(
 )
 ```
 
+
 # highlight
 
 highlight is a syntax highlighter for R code. 
@@ -21,7 +22,7 @@ You can install highlight from github with:
 
 ```r
 # install.packages("devtools")
-devtools::install_github("romainfrancois/highlight")
+devtools::install_github("ycphs/highlight")
 ```
 
 ## Typical highlighting (lestrade)

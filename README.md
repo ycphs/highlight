@@ -2,6 +2,16 @@
 highlight
 =========
 
+
+
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/highlight)](https://cran.r-project.org/package=highlight)
+[![Travis build status](https://travis-ci.org/ycphs/highlight.svg?branch=master)](https://travis-ci.org/ycphs/highlight)
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/ycphs/highlight?branch=master&svg=true)](https://ci.appveyor.com/project/ycphs/highlight)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/highlight)](https://cran.r-project.org/package=highlight)
+[![CRAN RStudio mirror downloads](https://cranlogs.r-pkg.org/badges/highlight)](https://cran.r-project.org/package=highlight)
+
+
+
 highlight is a syntax highlighter for R code.
 
 Installation
@@ -11,7 +21,7 @@ You can install highlight from github with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("romainfrancois/highlight")
+devtools::install_github("ycphs/highlight")
 ```
 
 Typical highlighting (lestrade)
